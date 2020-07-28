@@ -1,0 +1,181 @@
+{
+  "categorias": [
+    {
+      "titulo": "Berserk",
+      "link": "",
+      "cor": "#600a0a",
+      "link_extra": {
+        "text": "Wikia Berserk",
+        "url": "https://berserk.fandom.com/pt-br/wiki/P%C3%A1gina_principal"
+      },
+      "videos": [
+        {
+          "titulo": "Berserk (ベルセルク) saiba mais sobre a série de mangá escrita e ilustrada por Kentaro Miura. Série essa conhecida por sua violência pesada.",
+          "url": "https://www.youtube.com/watch?v=ZlzQKhvle4w"
+        },
+        {
+          "titulo": "A HISTÓRIA DE BERSERK",
+          "url": "https://www.youtube.com/watch?v=kw4Vb727bWg"
+        },
+        {
+          "titulo": "NÃO É APENAS UM MANGÁ VIOLENTO",
+          "url": "https://www.youtube.com/watch?v=mKNuoO4khAM"
+        },
+        {
+          "titulo": "Review Berserk - A História de Gatts e o bando do falcão",
+          "url": "https://www.youtube.com/watch?v=vQLN_BIdzBY&list=PLWGUTNtiY8cJ7uUdtD0F44N8yFIkSd2eE"
+        },
+        {
+          "titulo": "BERSERK - A MÃO DE DEUS É UM CICLO?",
+          "url": "https://www.youtube.com/watch?v=efwDcwybKH0&list=PLWGUTNtiY8cJ7uUdtD0F44N8yFIkSd2eE&index=10"
+        },
+        {
+          "titulo": "VILÃO E HERÓI: QUEM É GRIFFITH DE BERSERK? História Completa!",
+          "url": "https://www.youtube.com/watch?v=Sbzkc8U-k4E"
+        },
+        {
+          "titulo": "O TRISTE PASSADO DO GUTS | BERSERK",
+          "url": "https://www.youtube.com/watch?v=6X2iadct9i8"
+        },
+        {
+          "titulo": "Unboxing FEMTO Statue From BERSERK By Prime 1 Studio.",
+          "url": "https://www.youtube.com/watch?v=_IXmqSUMAWo"
+        }        
+      ]
+    },
+    {
+      "titulo": "Manga",
+      "cor": "#266928",
+      "link_extra": {
+        "text": "Curiosidades do Manga",
+        "url": "https://pt.wikipedia.org/wiki/Berserk_(mang%C3%A1)"
+      },
+      "videos": [
+        {
+          "titulo": "The Black Swordsman Arc Pt 1: BERSERK Manga Analysis",
+          "url": "https://www.youtube.com/watch?v=DRijQnkZjOY&list=PLgbLgeo2ItDjbyNJLFzF2dUNQYDi48tZ8"
+        },
+        {
+          "titulo": "Berserk Deluxe Edition Volume 1 Overview!",
+          "url": "https://www.youtube.com/watch?v=FGTp_PPBoDA"
+        },
+        {
+          "titulo": "CONFIRA O NOVO OMNIBUS DE LUXO DE BERSERK!",
+          "url": "https://www.youtube.com/watch?v=OPhsfkm67OE"
+        },
+        {
+          "titulo": "[MANGÁ] COLEÇÃO BERSERK - ED.PANINI",
+          "url": "https://www.youtube.com/watch?v=6Qbp4r63v2Y"
+        }, 
+        {
+          "titulo": "Berserk-Drawing a Manga Page [#9]",
+          "url": "https://www.youtube.com/watch?v=2tVdTq4Ih-w"
+        }
+      ]
+    },
+    {
+      "titulo": "Origens",
+      "cor": "#418098",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "A VERDADEIRA HISTÓRIA DE GRUNBELD E COMO ELE SE TORNOU APÓSTOLO",
+          "url": "https://www.youtube.com/watch?v=ijNjpmAZm3A"
+        },
+        {
+          "titulo": "RIGEM DO VOID, SKULL KNIGHT E BERSERKER ARMOR!",
+          "url": "https://www.youtube.com/watch?v=lXI77glaB4E"
+        },
+        {
+          "titulo": "A HISTÓRIA DA ARMADURA BERSERK - O SEGREDO DO PODER E AS FERIDAS ASTRAIS DE GUTS - BERSERK ARMOR",
+          "url": "https://www.youtube.com/watch?v=ByGdjSzuOgM"
+        },
+        {
+          "titulo": "A HISTÓRIA E ORIGEM DE NOSFERATU ZODD O IMORTAL ELE PODE NÃO SER UM APÓSTOLO COMUM - BERSERK",
+          "url": "https://www.youtube.com/watch?v=59KNpDMx44s"
+        }
+      ]
+    },
+    {
+      "titulo": "Filme",
+      "cor": "#656565",
+      "videos": [
+        {
+          "titulo": "A Era de Ouro (3 Filmes em 1)",
+          "url": "https://www.youtube.com/watch?v=XCdx8Z2tTZI"
+        },
+        {
+          "titulo": "Trilogia A Era De Ouro - Review | Análise | Crítica do Anime",
+          "url": "https://www.youtube.com/watch?v=0MS2zPoT8Jg"
+        },
+        {
+          "titulo": "'Berserk Golden Age Arc' World Trailer",
+          "url": "https://www.youtube.com/watch?v=ZXjaTICqRf8"
+        },
+        {
+          "titulo": "Berserk 2016 Official Trailer",
+          "url": "https://www.youtube.com/watch?v=0MIw4xzxcTU"
+        }
+      ]
+    },
+    {
+      "titulo": "Outros Animes",
+      "cor": "#001624",      
+      "videos": [
+        {
+          "titulo": "A história - Bleach!",
+          "url": "https://www.youtube.com/watch?v=o5v2oaMh88g"
+        },
+        {
+          "titulo": "Fullmetal Alchemist: Brotherhood MOMENTS HD",
+          "url": "https://www.youtube.com/watch?v=-_f2Ip8LaQE"
+        },
+        {
+          "titulo": "Yu Yu Hakusho",
+          "url": "https://www.youtube.com/watch?v=FVnVCSwCkoQ"
+        },
+        {
+          "titulo": "Light Yagami's Best / Smartest Moments! (Death Note)",
+          "url": "https://www.youtube.com/watch?v=LXtwLxvYMeg"
+        },
+        {
+          "titulo": "Katekyo Hitman Reborn",
+          "url": "https://www.youtube.com/watch?v=o8mm7HdYY7A"
+        }
+      ]
+    },
+    {
+      "titulo": "Terror Cósmico",
+      "cor": "#3d2bbd",
+      "link_extra": {
+        "text": "Entenda um pouco sobre o que é o Cosmicismo",
+        "url": "https://pt.wikipedia.org/wiki/Cosmicismo"
+      },
+      "videos": [
+        {
+          "titulo": "O Horror Cósmico e os Mitos de Cthulhu",
+          "url": "https://www.youtube.com/watch?v=OSpBNyha5yk"
+        },
+        {
+          "titulo": "A vida de HP Lovecraft e seu Cthulhu",
+          "url": "https://www.youtube.com/watch?v=udk5uWt1GSE"
+        },
+        {
+          "titulo": "NYARLATHOTEP O FARAÓ NEGRO DA DESTRUIÇÃO",
+          "url": "https://www.youtube.com/watch?v=eRV9duRC8JA"
+        },
+        {
+          "titulo": "AZATHOTH O HIPER PODEROSO DEUS DO BIG BANG",
+          "url": "https://www.youtube.com/watch?v=p6tgafX0z0c"
+        },
+        {
+          "titulo": "Who were the Ancestors of Cthulhu?",
+          "url": "https://www.youtube.com/watch?v=SgRKkjUsXWo"
+        }
+      ]
+    }
+  ]
+}
