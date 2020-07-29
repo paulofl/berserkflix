@@ -19,6 +19,10 @@ const Container = styled.ul`
       font-size: 30px;
     }
   }
+
+  .slick-prev:before,
+  .slick-next:before {
+  }
   
   .slick-prev {
     left: 0;
@@ -43,11 +47,10 @@ const Slider = ({ children }) => (
   <Container>
     <SlickSlider {...{
       dots: false,
-      infinite: false,
+      infinite: true,
       speed: 300,
-      centerMode: false,
-      variableWidth: true,
-      adaptiveHeight: true,
+      slidesToShow: 4,
+      slidesToScroll: 4,
     }}
     >
       {children}
