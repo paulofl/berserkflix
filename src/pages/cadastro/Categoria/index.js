@@ -29,8 +29,9 @@ function CadastroCategoria() {
   }
 
   useEffect(() => {
-    console.log('helloooo');
-    const URL_TOP = 'http://localhost:8080/categorias';
+    const URL_TOP = window.location.hostname.includes('localhost')
+      ? 'http://localhost:8080/categoria'
+      : 'https://berserkflix.herokuapp.com/categorias';
     fetch(URL_TOP)
       .then(async (respostaDoServidor) => {
         const resposta = await respostaDoServidor.json();
