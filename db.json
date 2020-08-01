@@ -1,0 +1,18 @@
+{
+    "categorias": [
+        {
+        "id": 1,
+        "nome": "Bando do Falcão",
+        "descricao": "Quem é o Bando do Falcão ?",
+        "cor": "#c0c0c0"
+        },
+        
+        {
+            "id": 1,
+            "nome": "Nosferatu Zodd",
+            "descricao": "Monstrão",
+            "cor": "#c0c0c0"
+        }
+    ]
+
+}
